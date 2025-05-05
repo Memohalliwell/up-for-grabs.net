@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/up-for-grabs/tooling.git
-  revision: 2b7279b1c0a25390042ee6f9b6a1626c932990ac
+  revision: 691c741716d69207bdd2b6ced80caa1957297aab
   branch: main
   specs:
     up_for_grabs_tooling (0.2.0)
@@ -13,7 +13,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (8.0.1)
+    activesupport (8.0.2)
       base64
       benchmark (>= 0.3)
       bigdecimal
@@ -109,7 +109,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    minitest (5.25.4)
+    minitest (5.25.5)
     net-http (0.6.0)
       uri
     octokit (9.2.0)
