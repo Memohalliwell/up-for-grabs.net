@@ -11,6 +11,6 @@ upforgrabs:
   name: E-easy
   link: https://github.com/rust-lang/rust/labels/E-easy
 stats:
-  issue-count: 27
+  issue-count: 23
   last-updated: '2025-09-06T19:06:15Z'
-  fork-count: 13715
+  fork-count: 13724
