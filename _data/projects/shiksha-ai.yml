@@ -1,12 +1,19 @@
+---
 name: Shiksha AI
-desc: AI-powered teaching assistant for educators in low-resource environments. Automates lesson planning, content creation & more.
+desc: >-
+  AI-powered teaching assistant for educators in low-resource environments. Automates lesson planning,
+  content creation & more.
 site: https://shiksha-ai-xi.vercel.app/
 tags:
-  - genai
-  - typscript
-  - javascript
-  - html
-  - ai
+- genai
+- typscript
+- javascript
+- html
+- ai
 upforgrabs:
   name: up for grabs
   link: https://github.com/skully-coder/shiksha-ai/issues?q=state%3Aopen%20label%3A%22up%20for%20grabs%22
+stats:
+  issue-count: 1
+  last-updated: '2025-10-25T11:34:34Z'
+  fork-count: 30
