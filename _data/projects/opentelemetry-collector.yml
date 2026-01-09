@@ -23,6 +23,6 @@ upforgrabs:
   name: help wanted
   link: https://github.com/open-telemetry/opentelemetry-collector/labels/help%20wanted
 stats:
-  issue-count: 27
-  last-updated: '2026-01-05T09:38:26Z'
-  fork-count: 1828
+  issue-count: 26
+  last-updated: '2026-01-08T22:17:24Z'
+  fork-count: 1832
